@@ -25,4 +25,9 @@ function BowyerWatson (pointList)
          remove triangle from triangulation
    return triangulation
 ```
-
+![](sample.png)
+## How to use
+```
+git clone https://github.com/Taintedy/delaunay_triangulation.git
+cd  delaunay_triangulation
+python3 main.py -m "Run"
